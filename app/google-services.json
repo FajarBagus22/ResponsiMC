@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046659627603",
+    "firebase_url": "https://responsimc-8a2fc.firebaseio.com",
+    "project_id": "responsimc-8a2fc",
+    "storage_bucket": "responsimc-8a2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046659627603:android:4e60539e1747f4a6b264a6",
+        "android_client_info": {
+          "package_name": "com.example.responsimc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046659627603-icupqo80muojem7akci94ip2giv7dsp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZgXhu5zXoLq9Zgd61Uxp91EonPxFqNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046659627603-icupqo80muojem7akci94ip2giv7dsp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
